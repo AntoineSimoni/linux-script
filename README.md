@@ -8,3 +8,9 @@ Ce jeu consiste a deviner un chiffre grâce a des indications nous informant si 
 Pour cela, voici mon programme
 
 ![](https://github.com/AntoineSimoni/linux-script/blob/master/programme.PNG)
+
+Malheuresement la partie empéchant d'entrer autre chose qu'un chiffre ne fonctionne pas.
+
+Cela me donne donc :
+
+![](https://github.com/AntoineSimoni/linux-script/blob/master/jeu%20final.PNG)
