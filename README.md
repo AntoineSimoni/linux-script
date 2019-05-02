@@ -10,8 +10,14 @@ Pour cela, voici mon programme
 ![](https://github.com/AntoineSimoni/linux-script/blob/master/programme.PNG)
 
 * Les attributs -ne, -gt, -lt ?
--ne = n'est pas égale à
+
+
+-ne = n'est pas égale à 
+
+
 -gt = est plus grands que
+
+
 -lt = est plus petit que
 
 Malheuresement la partie empéchant d'entrer autre chose qu'un chiffre ne fonctionne pas.
@@ -28,5 +34,9 @@ Pas réussi
 ## Dwl youtube 
 
 Peut importe mon programme : 
+
+
 ![](https://github.com/AntoineSimoni/linux-script/blob/master/aled.PNG)
+
+
 Problème avec l'apt ou mauvaise manip de ma part.
