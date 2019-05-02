@@ -7,4 +7,4 @@ Ce jeu consiste a deviner un chiffre grâce a des indications nous informant si 
 
 Pour cela, voici mon programme
 
-![programme](programme.png)
+![](https://github.com/AntoineSimoni/linux-script/blob/master/programme.PNG)
